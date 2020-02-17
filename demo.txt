@@ -1,0 +1,3 @@
+Chào mừng các bạn đến với công cụ quản lý mã nguồn GIT !
+
+Stanford - Dạy kinh nghiệm lập trình (stanford.com.vn)
